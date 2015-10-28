@@ -7,7 +7,7 @@ import java.util.List;
 
 import org.jiserte.alnman.commands.FastaCommand;
 
-import seqManipulation.complementary.Complementary;
+import org.jiserte.tmpaddons.Complementary;
 import cmdGA2.NoArgumentOption;
 import pair.Pair;
 

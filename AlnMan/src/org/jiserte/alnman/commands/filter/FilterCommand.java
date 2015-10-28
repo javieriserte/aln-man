@@ -6,9 +6,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.jiserte.alnman.commands.FastaCommand;
+import org.jiserte.tmpaddons.filtersequences.FilterSequence;
+import org.jiserte.tmpaddons.filtersequences.FilterSequenceBooleanNOT;
 
-import seqManipulation.filtersequences.FilterSequence;
-import seqManipulation.filtersequences.FilterSequenceBooleanNOT;
 import cmdGA2.ArgOption;
 import cmdGA2.NoArgumentOption;
 import pair.Pair;

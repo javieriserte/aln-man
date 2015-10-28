@@ -7,8 +7,8 @@ import java.util.List;
 import java.util.Map;
 
 import org.jiserte.alnman.commands.FastaCommand;
+import org.jiserte.tmpaddons.identity.IndentityMatrixCalculator;
 
-import seqManipulation.identity.IndentityMatrixCalculator;
 import cmdGA2.NoArgumentOption;
 import pair.Pair;
 

@@ -4,9 +4,10 @@ import java.io.InputStream;
 import java.io.PrintStream;
 import java.util.List;
 
-import seqManipulation.filtersequences.FilterSequence;
-import seqManipulation.filtersequences.FilterSequenceBooleanOR;
-import seqManipulation.filtersequences.FilterSequenceContainingInTitle;
+import org.jiserte.tmpaddons.filtersequences.FilterSequence;
+import org.jiserte.tmpaddons.filtersequences.FilterSequenceBooleanOR;
+import org.jiserte.tmpaddons.filtersequences.FilterSequenceContainingInTitle;
+
 import cmdGA2.MultipleArgumentOption;
 import cmdGA2.NoArgumentOption;
 

@@ -11,8 +11,8 @@ import java.util.List;
 import java.util.Map;
 
 import org.jiserte.alnman.commands.FastaCommand;
+import org.jiserte.tmpaddons.orf.Translate;
 
-import seqManipulation.orf.Translate;
 import cmdGA2.SingleArgumentOption;
 import pair.Pair;
 

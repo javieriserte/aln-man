@@ -6,8 +6,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.jiserte.alnman.commands.FastaCommand;
+import org.jiserte.tmpaddons.orf.Translate;
 
-import seqManipulation.orf.Translate;
 import cmdGA2.NoArgumentOption;
 import pair.Pair;
 

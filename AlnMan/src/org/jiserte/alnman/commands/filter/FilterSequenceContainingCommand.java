@@ -3,7 +3,8 @@ package org.jiserte.alnman.commands.filter;
 import java.io.InputStream;
 import java.io.PrintStream;
 
-import seqManipulation.filtersequences.FilterSequenceContaining;
+import org.jiserte.tmpaddons.filtersequences.FilterSequenceContaining;
+
 import cmdGA2.NoArgumentOption;
 import cmdGA2.SingleArgumentOption;
 

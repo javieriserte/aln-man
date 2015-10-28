@@ -9,7 +9,7 @@ import java.util.Map;
 
 import org.jiserte.alnman.commands.FastaCommand;
 
-import seqManipulation.AlignmentSequenceEditor;
+import org.jiserte.tmpaddons.AlignmentSequenceEditor;
 import utils.mutualinformation.MICalculator;
 import cmdGA2.NoArgumentOption;
 import pair.Pair;
