@@ -4,5 +4,10 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/CmdGetArg"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/generalUtils"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/cmdGetArg"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/XIBioFormats"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/XIBioSeq"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/XIBioMI"/>
+	<classpathentry kind="lib" path="C:/Javier/javalibs/mdsj.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

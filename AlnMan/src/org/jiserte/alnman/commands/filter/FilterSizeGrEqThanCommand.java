@@ -3,8 +3,8 @@ package org.jiserte.alnman.commands.filter;
 import java.io.InputStream;
 import java.io.PrintStream;
 
-import org.jiserte.tmpaddons.filtersequences.FilterSequence;
-import org.jiserte.tmpaddons.filtersequences.FilterSequenceGreaterThan;
+import org.jiserte.bioseq.filtersequences.FilterSequence;
+import org.jiserte.bioseq.filtersequences.FilterSequenceGreaterThan;
 
 import cmdGA2.NoArgumentOption;
 import cmdGA2.SingleArgumentOption;

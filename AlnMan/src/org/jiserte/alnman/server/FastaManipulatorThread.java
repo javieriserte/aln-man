@@ -10,7 +10,7 @@ import java.util.List;
 
 import org.jiserte.alnman.server.FastaManipulatorProtocol.FastaManipulatorProtocolResponse;
 
-import fileformats.fastaIO.FastaMultipleReader;
+import org.jiserte.bioformats.fastaIO.FastaMultipleReader;
 import pair.Pair;
 
 public class FastaManipulatorThread extends Thread{

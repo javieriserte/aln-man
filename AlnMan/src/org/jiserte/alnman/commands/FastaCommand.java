@@ -7,7 +7,7 @@ import java.io.PrintStream;
 import java.util.List;
 
 import cmdGA2.ArgOption;
-import fileformats.fastaIO.FastaMultipleReader;
+import  org.jiserte.bioformats.fastaIO.FastaMultipleReader;
 import pair.Pair;
 
 public abstract class FastaCommand <Op extends ArgOption<?>> {

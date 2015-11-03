@@ -9,8 +9,8 @@ import java.util.Map;
 
 import org.jiserte.alnman.commands.FastaCommand;
 
-import org.jiserte.tmpaddons.AlignmentSequenceEditor;
-import utils.mutualinformation.MICalculator;
+import org.jiserte.bioseq.AlignmentSequenceEditor;
+import org.jiserte.mi.MICalculator;
 import cmdGA2.NoArgumentOption;
 import pair.Pair;
 

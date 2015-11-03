@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.jiserte.alnman.commands.FastaCommand;
-import org.jiserte.tmpaddons.dottedalignment.ReconstructDottedAlignment;
+import org.jiserte.bioseq.dottedalignment.ReconstructDottedAlignment;
 
 import cmdGA2.SingleArgumentOption;
 import pair.Pair;

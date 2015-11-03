@@ -10,7 +10,7 @@ import java.util.List;
 import org.jiserte.alnman.commands.FastaCommand;
 
 import cmdGA2.MultipleArgumentOption;
-import fileformats.fastaIO.FastaMultipleReader;
+import org.jiserte.bioformats.fastaIO.FastaMultipleReader;
 import pair.Pair;
 
 /**

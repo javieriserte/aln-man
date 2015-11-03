@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import seqManipulation.AlignmentSequenceEditor;
+import  org.jiserte.bioseq.AlignmentSequenceEditor;
 
 import pair.Pair;
 

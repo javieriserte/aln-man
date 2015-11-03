@@ -4,9 +4,9 @@ import java.io.InputStream;
 import java.io.PrintStream;
 import java.util.List;
 
-import org.jiserte.tmpaddons.filtersequences.FilterSequence;
-import org.jiserte.tmpaddons.filtersequences.FilterSequenceBooleanOR;
-import org.jiserte.tmpaddons.filtersequences.FilterSequenceContainingInTitle;
+import org.jiserte.bioseq.filtersequences.FilterSequence;
+import org.jiserte.bioseq.filtersequences.FilterSequenceBooleanOR;
+import org.jiserte.bioseq.filtersequences.FilterSequenceContainingInTitle;
 
 import cmdGA2.MultipleArgumentOption;
 import cmdGA2.NoArgumentOption;

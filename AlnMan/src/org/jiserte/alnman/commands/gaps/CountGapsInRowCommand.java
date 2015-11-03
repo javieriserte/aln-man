@@ -7,7 +7,7 @@ import java.util.List;
 
 import org.jiserte.alnman.commands.FastaCommand;
 
-import org.jiserte.tmpaddons.GapToolbox;
+import org.jiserte.bioseq.GapToolbox;
 import cmdGA2.SingleArgumentOption;
 import pair.Pair;
 
